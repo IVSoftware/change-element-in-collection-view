@@ -23,6 +23,7 @@ namespace change_element_in_collection_view
         {
             new Item{title = "Item A"},
             new Item{title = "Item B"},
+            new Item{title = "Item C"},
         };
 
         // Because we're in "single" mode, we bind SelectedItem, not SelectedItems
